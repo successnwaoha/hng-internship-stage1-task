@@ -192,4 +192,4 @@ def delete_string(string_value):
     return '', 204 # 204 No Content
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
